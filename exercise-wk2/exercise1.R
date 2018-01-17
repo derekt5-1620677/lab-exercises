@@ -22,8 +22,8 @@ print(str_length(my.line))
 
 # Describe why this doesn't work: 
 # ANSWER: Although the programmer used the "install.packages" function,
-#         the programmer also needs type the library() to load the
-#         function.
+#         the programmer also needs type the "library" function to load
+#         the "stringr" library.
 
 said.the.famous <- paste(my.line, " - ", initial)
 
